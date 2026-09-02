@@ -1,0 +1,6 @@
+{
+  "name": "AI Plant, Herb & Body Analyzer",
+  "description": "Identify plants, medicinal herbs (jadi buti), diseases, and human skin or body symptoms. Get detailed botanical and wellness remedies with usage instructions in Hindi, Hinglish, or English.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
